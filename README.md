@@ -1,4 +1,6 @@
 # haskellffi
+# Mon  6 May 12:11:00 2024
+# Move from bitbucket to github
 
 * $sp/haskellffi 
 
